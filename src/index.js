@@ -4,6 +4,7 @@ console.log(message); // this shows that both index.js and es6 is working as wel
 
 import React from 'react';
 import {render} from 'react-dom';
+import App from 'components/app';
 
 
 render(<App/>, document.getElementById('app')); // this is the id where the react app will actually be displayed into the html page
