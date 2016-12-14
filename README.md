@@ -10,3 +10,7 @@ npm i -D babel-core babel-loader babel-preset-es2015 babel-preset-react react-ho
 sidenote: for the webpack.config.js file, differences are in loaders, instead of react-hot it is react-hot-loader/webpack, but here I revised it yet again from react-hot-loader/webpack to react-hot-loader
 
 then npm i -g webpack webpack-dev-server (npm i -g, is a quick way of npm installing globally)
+
+
+
+Left off at 10:33
