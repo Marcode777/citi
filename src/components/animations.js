@@ -2,7 +2,7 @@
 // TweenMax.from(this.refs.citi, 1.5, {x:-250});
  //TweenMax.from("#app", 1.5, {x:-250, rotation:360});
 
- TweenMax.fromTo('#app', 0.5, {
+ TweenMax.fromTo('#app', 1.0, {
   rotation: 360, 
 },
 {
